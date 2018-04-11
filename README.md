@@ -30,7 +30,7 @@ Information Theory, Inference and Learning Algorithms by David J.C. MacKay [http
 
 - 1) One by 3Blue1Brown [Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - 2) Linear algebra bits from this book [Ian Goodfellow book on Deep learning](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf)
-- 3) Try out for **solving sums** [Introduction to Linear Algebra By Gilbert Strang](https://math.feld.cvut.cz/ftp/krajnik/vyuka/ua/linalgeb.pdf)
+- 3) Try out for **solving sums** [Introduction to Linear Algebra By Gilbert Strang](https://math.feld.cvut.cz/ftp/krajnik/vyuka/ua/linalgeb.pdf)<br>
         More to come....
 
 ## C. Visual Resources
