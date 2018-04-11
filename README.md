@@ -7,20 +7,20 @@ Here  is a curated list of Resources for Machine Learning
 
 ## B. Getting into the mathematics:
    ### Probability
- - 1A) I belive this is a far better book to get into probability than the one that follows [Pattern Recognition and Machine Learning, Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
- - 1B) Read on the mathematical foundations bit,just basics the math is still too difficult to comprehend for a beginner by my guesstimate [Pattern Classification - Duda, Hart](https://github.com/Jane333/Mustererkennung/blob/master/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf)
+ - 1A) I believe this is a far better book for a beginner in probability than the one that follows [Pattern Recognition and Machine Learning, Christopher Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+ - 1B) Read on the mathematical foundations bit,just basics, the math is still too difficult to comprehend for a beginner by my guesstimate [Pattern Classification - Duda, Hart](https://github.com/Jane333/Mustererkennung/blob/master/Pattern%20Classification%20by%20Richard%20O.%20Duda%2C%20David%20G.%20Stork%2C%20Peter%20E.Hart%20.pdf)
  
- You may start either with 1A / 1B, i strongly recommend 1A + 2 to get a hold on probability
+ You may start either with 1A / 1B, I strongly recommend 1A + 2A/2B to get a hold on probability
  - 2A) Follow quickly with [Bayesian Reasoning And Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/090310.pdf)
  - 2B) Probability bits from [All of Statistics: A Concise course in statistical inference by Larry Wasserman](http://www.bioinfo.org.cn/~wangchao/maa/w.statistic.pdf)
- - 3) Supplement with the following to dvelve into scary math territory [Ian Goodfellow book on Deep learning](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf)
+ - 3A) Supplement with the following to dvelve into scary math territory [Ian Goodfellow book on Deep learning](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf)
   
  ### Statistics
   - 1) Start with this and no other  [All of Statistics: A Concise course in statistical inference by Larry Wasserman](http://www.bioinfo.org.cn/~wangchao/maa/w.statistic.pdf)
-  - 2) Easy and implemented in python [Think stats](http://greenteapress.com/thinkstats/thinkstats.pdf)
+  - 2) Easy Stats and implemented in python [Think stats](http://greenteapress.com/thinkstats/thinkstats.pdf)
   - 3) [Statistics with R by Andy Field](http://www.amazon.com/gp/product/1446200469) **Especially to Learn R**
-  - 4) Just to Compliment above readings you may try out[Intro to bayesian statistics by William Bolstad](https://thenigerianprofessionalaccountant.files.wordpress.com/2013/04/intro-bayesian-statistics.pdf)
-  - 5) Finish with this, this by far is the most challenging and detailed explanations[The Elements of Statistical Learning: Data Mining, Inference and Prediction](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+  - 4) Just to Complement above readings you may try out[Intro to bayesian statistics by William Bolstad](https://thenigerianprofessionalaccountant.files.wordpress.com/2013/04/intro-bayesian-statistics.pdf)
+  - 5) Finish with this. It is  has by far  the most challenging and detailed explanations[The Elements of Statistical Learning: Data Mining, Inference and Prediction](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 
 ### Information theory
@@ -46,7 +46,7 @@ Nothing better than the 3Blue1Brown
 - [Concepts in Predictive Machine learning](http://www.davidwind.dk/wp-content/uploads/2014/07/main.pdf)
 - [Advanced Engineering Mathematics](http://www-elec.inaoep.mx/~jmram/Kreyzig-ECS-DIF1.pdf)
 
-### Credits
+#### Credits
  - [Abhishek Ghose](https://www.quora.com/I-want-to-buy-a-general-machine-learning-textbook-available-today-What-do-you-recommend/answer/Abhishek-Ghose)
  - [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)
  
