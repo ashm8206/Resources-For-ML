@@ -1,0 +1,13 @@
+# Resources-For-ML
+Here  is a curated list of Resources for Machine Learning
+
+
+2) A comprehensive overview of ML, with a lot of technicalities explained: Machine Learning by Tom Mitchell - http://www.amazon.com/Machine-Le...
+
+(3) Getting into the mathematics: 
+Pattern Classification - Duda, Hart - http://www.amazon.com/Pattern-Cl...
+
+
+(4) For (nearly) full-blown ML with most foundations explained:
+Pattern Recognition and Machine Learning, Christopher Bishop - http://www.amazon.com/Pattern-Re...
+The Elements of Statistical Learning: Data Mining, Inference and Prediction - free online copy linked here:  http://www-stat.stanford.edu/~ti...
