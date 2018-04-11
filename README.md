@@ -45,4 +45,8 @@ Nothing better than the 3Blue1Brown
 ## D. Extras
 - [Concepts in Predictive Machine learning](http://www.davidwind.dk/wp-content/uploads/2014/07/main.pdf)
 - [Advanced Engineering Mathematics](http://www-elec.inaoep.mx/~jmram/Kreyzig-ECS-DIF1.pdf)
+
+### Credits
+ - [Abhishek Ghose](https://www.quora.com/I-want-to-buy-a-general-machine-learning-textbook-available-today-What-do-you-recommend/answer/Abhishek-Ghose)
+ - [AnalyticsVidhya](https://www.analyticsvidhya.com/blog/2016/02/free-read-books-statistics-mathematics-data-science/)
  
