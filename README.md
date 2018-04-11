@@ -28,11 +28,15 @@ Information Theory, Inference and Learning Algorithms by David J.C. MacKay [http
 - 1)One by 3Blue1Brown [Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - 2) Linear algebra bits from this book [Ian Goodfellow book on Deep learning](https://github.com/janishar/mit-deep-learning-book-pdf/blob/master/complete-book-pdf/deeplearningbook.pdf)
 
-### Visual Resources
+## C. Visual Resources
 
 Nothing better than the 3Blue1Brown
 
 - [Linear Algebra](https://www.youtube.com/watch?v=kjBOesZCoqc&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Calculus](https://www.youtube.com/watch?v=WUvTyaaNkzM&list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - [Nueral Networks](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+## D. Extras
+[Concepts in Predictive Machine learning](http://www.davidwind.dk/wp-content/uploads/2014/07/main.pdf)
+[Advanced Engineering Mathematics](http://www-elec.inaoep.mx/~jmram/Kreyzig-ECS-DIF1.pdf)
  
